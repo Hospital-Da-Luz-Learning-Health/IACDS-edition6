@@ -2,6 +2,11 @@
 
 [tutorial here](https://github.com/joaosalvadoMicrosoft/Tutorial_create_AML)
 
+# **Interesting WebSites for Deep Learnig**
+
+*   http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+*   https://playground.tensorflow.org
+
 
 
 # Tutorial_Intro_ML_4Health
