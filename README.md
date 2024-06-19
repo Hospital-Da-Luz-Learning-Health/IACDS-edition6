@@ -1,3 +1,9 @@
+# Tutorial Cloud setup
+
+[tutorial here](https://github.com/joaosalvadoMicrosoft/Tutorial_create_AML)
+
+
+
 # Tutorial_Intro_ML_4Health
 
 1) Começar a "Compute Instance" criada no 1º Hands-On.
