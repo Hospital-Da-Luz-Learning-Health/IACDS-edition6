@@ -6,3 +6,4 @@ lime
 scikit-learn
 pandas
 numpy
+ipykernel
