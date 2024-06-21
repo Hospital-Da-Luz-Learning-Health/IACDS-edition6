@@ -1,0 +1,14 @@
+name: tecnico5
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pandas
+  - numpy
+  - ipykernel
+  - pydotplus
+  - lime
+  - graphviz

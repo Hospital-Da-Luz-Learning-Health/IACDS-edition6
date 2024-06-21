@@ -8,6 +8,8 @@
 *   https://playground.tensorflow.org
 
 
+Note: Install graphviz on your azure machine with `sudo apt-get install graphviz`
+
 
 # Tutorial_Intro_ML_4Health
 
