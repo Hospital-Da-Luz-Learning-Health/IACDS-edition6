@@ -11,6 +11,9 @@
 Note: Install graphviz on your azure machine with `sudo apt-get install graphviz`
 
 
+[Colab link](https://colab.research.google.com/github/Hospital-Da-Luz-Learning-Health/IACDS-edition6/Tutorial_IACDS.ipynb)
+
+
 # Tutorial_Intro_ML_4Health
 
 1) Começar a "Compute Instance" criada no 1º Hands-On.
